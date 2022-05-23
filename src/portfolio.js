@@ -14,7 +14,7 @@ const greeting = {
   username: "Susheel Gounder",
   title: "Hi all, I'm Susheel",
   subTitle: emoji(
-    "An enthusiastic learner with more than 2.5+ years of experience in Software development. In my learning career, I have gained technical expertise in Golang, Vuejs, Nodejs, Python, MySQL, MongoDB, GIT, REST, GRPC, KAFKA, Docker, (Amazon Web Services) AWS, Datadog, Rollbar, JIRA, Redis, CI/CD, Design Pattern, Data modeling, Test Driven Development(TDD), Shell Scripting, PHP, CSS, NGINX, APACHE. Current interests include Machine Learning, Data Analytics, Artificial Intelligence, and Natural language Processing."
+    "An enthusiastic learner with more than 3+ years of experience in Software development. In my learning career, I have gained technical expertise in Golang, Vuejs, Nodejs, Python, MySQL, MongoDB, GIT, REST, GRPC, KAFKA, Docker, (Amazon Web Services) AWS, Datadog, Rollbar, JIRA, Redis, CI/CD, Design Pattern, Data modeling, Test Driven Development(TDD), Shell Scripting, PHP, CSS, NGINX, APACHE, Elastic Search. Current interests include Machine Learning, Data Analytics, Artificial Intelligence, and Natural language Processing."
   ),
   resumeLink:
     "https://drive.google.com/file/d/11_vGt6z_5LkYRC7gdva2n18SRmf7v3ZA/view?usp=sharing", // Set to empty to hide the button
